@@ -6,7 +6,7 @@ function Main() {
     <main className={styles.main}>
     <h1>Favoritisar</h1>
     <ul>
-      <li>Körv</li>
+      <li>Körv unt breit</li>
       <li>Nudlar</li>
       <li>Lasse</li>
       <li>Makaroner</li>
